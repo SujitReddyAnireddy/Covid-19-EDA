@@ -1,2 +1,2 @@
-# Covid-19-EDA
-This is a detailed analysis of Covid and how it affected the world.
+# COVID-19
+Analysis of COVID-19 cases all over world
